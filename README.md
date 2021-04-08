@@ -46,3 +46,16 @@ The following are the results on various datasets:
   c. Recall:
 
   d. F-Score:
+  
+  
+**3. UTSig Dataset:**
+
+ The [UTSig Dataset](https://drive.google.com/file/d/0B29vNACcjvzVc1RfVkg5dUh2b1E/view) gave the following results:
+
+  a. Accuracy:
+
+  b. Precision:
+
+  c. Recall:
+
+  d. F-Score:
