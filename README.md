@@ -9,13 +9,40 @@ For performing the signature verification task, Convolutional Neural Network are
 
 The following are the results on various datasets:
 
-**1. CEDAR Dataset**
-The [CEDAR Dataset](https://cedar.buffalo.edu/NIJ/data/signatures.rar) gave the following results:
+**1. CEDAR Dataset:**
 
-a. Accuracy:
+ The [CEDAR Dataset](https://cedar.buffalo.edu/NIJ/data/signatures.rar) gave the following results:
 
-b. Precision:
+  a. Accuracy:
 
-c. Recall:
+  b. Precision:
 
-d. F-Score:
+  c. Recall:
+
+  d. F-Score:
+  
+
+**2. GPDS Dataset:**
+
+ The [GPDS Dataset](http://www.gpds.ulpgc.es/download/) gave the following results:
+
+  a. Accuracy:
+
+  b. Precision:
+
+  c. Recall:
+
+  d. F-Score:
+  
+
+**3. BHSig260 Dataset:**
+
+ The [BHSig260 Dataset](https://drive.google.com/file/d/0B29vNACcjvzVc1RfVkg5dUh2b1E/view) gave the following results:
+
+  a. Accuracy:
+
+  b. Precision:
+
+  c. Recall:
+
+  d. F-Score:
