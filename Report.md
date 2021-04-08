@@ -7,7 +7,7 @@ Model an independent signature verification task with a machine learning algorit
 
 For performing the signature verification task, a Convolutional Neural Network are used.
 
-The following are the results on various datasets:
+The following are the results:
 
 
   **1. ICDAR 2011:**
