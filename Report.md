@@ -47,3 +47,16 @@ The following are the results on various datasets:
   c. Recall:
 
   d. F-Score:
+  
+  
+  **4. ICDAR 2011:**
+
+ The [ICDAR 2011](https://www.kaggle.com/robinreni/signature-verification-dataset) gave the following results:
+
+  a. Accuracy:
+
+  b. Precision:
+
+  c. Recall:
+
+  d. F-Score:
