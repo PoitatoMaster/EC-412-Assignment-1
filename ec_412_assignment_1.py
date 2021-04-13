@@ -41,7 +41,7 @@ model.summary()
 
 """Dataset import"""
 
-size = 100
+size = 144
 
 train_data = []
 train_labels = []
